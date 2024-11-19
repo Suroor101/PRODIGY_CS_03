@@ -20,9 +20,9 @@ Additionally, the tool uses a list of **common passwords** (SecList file) to che
 
 ## How to Run
 
-1. Clone the repository or download the `password_strength_checker.py` file.
-4. Open a terminal or command prompt, navigate to the directory containing `password_checker.py`.
-5. Run the script with the following command:
+1. Clone the repository or download the `password_checker.py` file and `common_passwords.txt`.
+2. Open a terminal or command prompt, navigate to the directory containing `password_checker.py`.
+3. Run the script with the following command:
 
    ```bash
    python password_checker.py
